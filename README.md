@@ -1,10 +1,10 @@
 # BumperArena
 
-This is a copy of the project files from the game Bumper Arena made by Firestarter Games.
-Since the only intent of this repository is for hiring people to take a look to the code, you're only allowed to read the files.
+This repository contains a copy of the project files for Bumper Arena, a game developed by Firestarter Games.
 
-https://store.steampowered.com/app/2431850/Bumper_Arena/
+The sole purpose of this repository is to showcase my work for hiring purposes. You are allowed to browse the code, but not to modify or use it.
 
-Bumper Arena is a party game in which you drive a bumper car through a series of arenas featuring different mini-games.
+Bumper Arena is a party game where players drive bumper cars through various arenas, each featuring different mini-games.
+I worked as a Gameplay Programmer on this project. You can find all the scripts in the [features folder](https://github.com/ThomasMadarasz/BumperArena/tree/main/Assets/_/Features).
 
-I was Gameplay Programmer on this project. You can find all the scripts in the [features folder](https://github.com/ThomasMadarasz/BumperArena/tree/main/Assets/_/Features)
+Steam page: [Bumper Arena](https://store.steampowered.com/app/2431850/Bumper_Arena/)
