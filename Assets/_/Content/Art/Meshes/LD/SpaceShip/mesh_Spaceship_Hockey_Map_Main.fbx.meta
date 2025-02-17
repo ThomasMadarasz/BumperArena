@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: bcce029489543b04d91a44335ada7c08
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["mesh_spaceship_Wall","mesh_Spaceship_Lights.061","mesh_Spaceship_Lights.060","mesh_Spaceship_Lights.059","mesh_Spaceship_Lights.058","mesh_Spaceship_Lights.057","mesh_Spaceship_Lights.056","mesh_Spaceship_Lights.055","mesh_Spaceship_Lights.054","mesh_Spaceship_Lights.053","mesh_Spaceship_Lights.052","mesh_Spaceship_Lights.051","mesh_Spaceship_Lights.050","mesh_Spaceship_Lights.049","mesh_Spaceship_Lights.048","mesh_Spaceship_Lights.047","mesh_Spaceship_Lights.046","mesh_Spaceship_Lights.045","mesh_Spaceship_Lights.044","mesh_Spaceship_Lights.043","mesh_Spaceship_Lights.042","mesh_Spaceship_Lights.041","mesh_Spaceship_Lights.040","mesh_Spaceship_Lights.039","mesh_Spaceship_Lights.038","mesh_Spaceship_Lights.037","mesh_Spaceship_Lights.036","mesh_Spaceship_Lights.035","mesh_Spaceship_Lights.034","mesh_Spaceship_Lights.033","mesh_Spaceship_Lights.032","mesh_Spaceship_Lights.031","mesh_Spaceship_Lights.030","mesh_Spaceship_Lights.029","mesh_Spaceship_Lights.028","mesh_Spaceship_Lights.027","mesh_Spaceship_Lights.026","mesh_Spaceship_Lights.025","mesh_Spaceship_Lights.024","mesh_Spaceship_Lights.023","mesh_Spaceship_Lights.022","mesh_Spaceship_Lights.021","mesh_Spaceship_Lights.020","mesh_Spaceship_Lights.019","mesh_Spaceship_Lights.018","mesh_Spaceship_Lights.017","mesh_Spaceship_Lights.016","mesh_Spaceship_Lights.015","mesh_Spaceship_Lights.014","mesh_Spaceship_Lights.013","mesh_Spaceship_Lights.012","mesh_Spaceship_Lights.011","mesh_Spaceship_Lights.010","mesh_Spaceship_Lights.009","mesh_Spaceship_Lights.008","mesh_Spaceship_Lights.007","mesh_Spaceship_Lights.006","mesh_Spaceship_Lights.005","mesh_Spaceship_Lights.004","mesh_Spaceship_Lights.003","mesh_Spaceship_Lights.002","mesh_Spaceship_LightLine.001","mesh_Spaceship_Hockey_Goal","Lights.001","CutedFloorBase.029","CutedFloorBase.028","CutedFloorBase.027","CutedFloorBase.026","CutedFloorBase.025","CutedFloorBase.024","CutedFloorBase.023","CutedFloorBase.022","CutedFloorBase.021","CutedFloorBase.020","CutedFloorBase.019","CutedFloorBase.018","CutedFloorBase.001","mesh_TubeLights","mesh_spaceship_BarrelDoors"],"padding":[1,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,71,68,3,17,5,5,5,5,5,5,5,5,6,6,6,6,1,5,1],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

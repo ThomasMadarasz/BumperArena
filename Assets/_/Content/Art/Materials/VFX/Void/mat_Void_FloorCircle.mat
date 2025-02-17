@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mat_Void_FloorCircle
+  m_Shader: {fileID: 4800000, guid: e01969414c5018b46834a158196e4065, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _RADIALUV_ON
+  - _SURFACE_TYPE_TRANSPARENT
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AcidTexture:
+        m_Texture: {fileID: 2800000, guid: 4025c6d5300c1054da24fac6cfdb3b0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AddTexture:
+        m_Texture: {fileID: 2800000, guid: fa07850dd662e0c408baf510b326264e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTxtr:
+        m_Texture: {fileID: 2800000, guid: dc105fcc0c8dd714eb637490cc07f6c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Borders:
+        m_Texture: {fileID: 2800000, guid: a42a95fa2174bab4e911b06f9e4f8fc0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BordersTxtr:
+        m_Texture: {fileID: 2800000, guid: cf3fff25d71782e4296c51417f3b226a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CenterTxtr:
+        m_Texture: {fileID: 2800000, guid: a42a95fa2174bab4e911b06f9e4f8fc0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CenterTxtr1:
+        m_Texture: {fileID: 2800000, guid: a42a95fa2174bab4e911b06f9e4f8fc0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorTexture:
+        m_Texture: {fileID: 2800000, guid: 019af7f89679fd24fb4ec008a0ad2882, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NebulaTxtr:
+        m_Texture: {fileID: 2800000, guid: d007e1c2287a706498f45c7fba0c7bc9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NebullaTxtr:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture:
+        m_Texture: {fileID: 2800000, guid: 019af7f89679fd24fb4ec008a0ad2882, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RadialMask:
+        m_Texture: {fileID: 2800000, guid: 516257369772a0442ac72d58f215762f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RadialTxtr:
+        m_Texture: {fileID: 2800000, guid: 0bf7b88324a485e429d00b5d241a051d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureNebula:
+        m_Texture: {fileID: 8900000, guid: 6e7af79406822f84ba335c36c46a0fa9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 516257369772a0442ac72d58f215762f, type: 3}
+        m_Scale: {x: -0.77, y: 0}
+        m_Offset: {x: 0.09, y: 0.78}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 6642f150dc7695643bb6e942e1de4819, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TileableFire:
+        m_Texture: {fileID: 2800000, guid: 465f202f9429b2844ae7b03f63bd3a9e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _AlphaCutoff: 0.5
+    - _AlphaMoveUv: 41.5
+    - _AlphaMoveUv1: 1
+    - _AlphaNMoveUv: -1
+    - _AlphaNMoveUv1: -1
+    - _AlphaNoiseSize: 12.78
+    - _AlphaTMoveUv: 0
+    - _AlphaTextureMoveUv: -1
+    - _AlphaVoronoiAngle: 0
+    - _AlphaVoronoiScale: 0.01
+    - _Blend: 0
+    - _BodersMoveUV: 1
+    - _BorderMoveUv: 1
+    - _BorderUv: 1
+    - _BordersMoveUv: 1
+    - _BordersMoveUv1: 1
+    - _BordersNoiseSize: 7.9
+    - _BordersNoiseSize1: -0.39
+    - _BumpScale: 1
+    - _CastShadows: 1
+    - _CenterNoiseMoveUV: 1.41
+    - _CenterNoiseMoveUV1: 1.41
+    - _CenterNoiseSize: 8.28
+    - _CenterNoiseSize1: 12.06
+    - _CenterTxtrMoveUV: 0.15
+    - _CenterTxtrMoveUV1: 0.75
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _Depth: 0
+    - _DepthOpacity: 0.67
+    - _DetailAlbedoMapScale: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 10
+    - _EnvironmentReflections: 1
+    - _Float0: 1
+    - _Float1: 1
+    - _Float3: 10.02
+    - _Fresnelpower: 7.85
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _MoveToMaterialUV: 0.04
+    - _MoveToMaterialUV1: 0
+    - _MoveToMaterialUV2: 1
+    - _MoveUV: 0
+    - _NebulaMoveUv: 1
+    - _NoiseSize: 2.45
+    - _NoiseSize1: 5.6
+    - _NoiseSpeed: 0.11
+    - _NoiseUv: 1
+    - _NoiseValue: 3.3
+    - _OcclusionStrength: 1
+    - _OffsetSpeed: 0.005
+    - _Opacity: 0.607
+    - _Parallax: 0.005
+    - _QueueControl: 0
+    - _QueueOffset: 1
+    - _RadialNoiseMoveUV: 10.31
+    - _RadialNoiseSize: 5.61
+    - _RadialUV: 1
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
+    - _t: 2413.48
+    - _time: 4.34
+    m_Colors:
+    - _AcidColor: {r: 0.51501346, g: 1, b: 0, a: 0}
+    - _AcidSpeed: {r: 0.002, g: 0, b: 0, a: 0}
+    - _AcidSpeed1: {r: 0.003, g: 0, b: 0, a: 0}
+    - _AcidTillingOffset: {r: 1.2, g: 1.2, b: 1, a: 0}
+    - _AlphaNSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _AlphaNSpeed1: {r: 0, g: -0.03, b: 0, a: 0}
+    - _AlphaNTO: {r: 1, g: 1, b: 1, a: 0}
+    - _AlphaNTO1: {r: 1, g: 1, b: 1, a: 0}
+    - _AlphaSpeed: {r: 0, g: 0.04, b: 0, a: 0}
+    - _AlphaTO: {r: 1, g: 1.22, b: 1, a: 0}
+    - _AlphaTO1: {r: 1, g: 1, b: 1, a: 0}
+    - _AlphaTSpeed: {r: 0, g: -0.03, b: 0, a: 0}
+    - _AlphaTTO: {r: 1, g: 1, b: 1, a: 0}
+    - _AlphaTextureSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _AlphaTextureTO: {r: 1, g: 1, b: 1, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BorderSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _BorderTO: {r: 1, g: 1, b: 1, a: 0}
+    - _BordersColor: {r: 0.24313726, g: 0.07058824, b: 0.5176471, a: 1}
+    - _BordersColors: {r: 0.121968, g: 0.034848005, b: 0.363, a: 1}
+    - _BordersSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _BordersSpeed1: {r: 0, g: 0, b: 0, a: 0}
+    - _BordersTO: {r: 0.5, g: 0.32, b: 1, a: 0}
+    - _BordersTO1: {r: 1, g: 1, b: 1, a: 0}
+    - _CenterNoiseSpeed: {r: 0.01, g: 0.01, b: 0, a: 0}
+    - _CenterNoiseSpeed1: {r: 0.005, g: 0.05, b: 0, a: 0}
+    - _CenterNoiseTO: {r: 1, g: 1, b: 1, a: 0}
+    - _CenterNoiseTO1: {r: 1, g: 1, b: 1, a: 0}
+    - _CenterTxtrColors: {r: 0.10775881, g: 0.04690281, b: 0.3207547, a: 0}
+    - _CenterTxtrColors1: {r: 1, g: 1, b: 1, a: 0}
+    - _CenterTxtrSpeed: {r: 0, g: 0.02, b: 0, a: 0}
+    - _CenterTxtrSpeed1: {r: -0.025, g: -0.0025, b: 0, a: 0}
+    - _CenterTxtrTO: {r: 0.18, g: 0.8, b: 1, a: 0}
+    - _CenterTxtrTO1: {r: 2.5, g: 2.5, b: 1, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 0, g: 0, b: 0, a: 0}
+    - _ColorSpeed: {r: 0.002, g: 0, b: 0, a: 0}
+    - _ColorTillingOffset: {r: 1.2, g: 1.2, b: 1, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FresnelColor: {r: 1, g: 0, b: 0.7333336, a: 0}
+    - _NebulaColor: {r: 0.19205305, g: 0.11764707, b: 0.49019608, a: 1}
+    - _NebulaSpeed: {r: -0.005, g: 0, b: 0, a: 0}
+    - _NebulaTO: {r: 0.39, g: 1, b: 1, a: 0}
+    - _NoiseSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _NoiseTO: {r: 0.82, g: 1, b: 1, a: 0}
+    - _NoiseTillingOffset: {r: 3, g: 3, b: 1, a: 0}
+    - _RadialBorderOffset: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _RadialBorderTextureCoordination: {r: 1, g: 0.4, b: 0, a: 0}
+    - _RadialBorderTextureSpeed: {r: 0.05, g: 0, b: 0, a: 0}
+    - _RadialBorderTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _RadialNoiseSpeed: {r: 0.01, g: 0.01, b: 0, a: 0}
+    - _RadialNoiseTO: {r: 1, g: 1, b: 1, a: 0}
+    - _RadialOffset: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _RadialOffset1: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _RadialTextureCoordination: {r: -5, g: 1, b: 0, a: 0}
+    - _RadialTextureCoordination1: {r: 1, g: 1, b: 0, a: 0}
+    - _RadialTextureSpeed: {r: 0.005, g: 0.03, b: 0, a: 0}
+    - _RadialTextureSpeed1: {r: 0, g: 0, b: 0, a: 0}
+    - _RadialTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _RadialTiling1: {r: 0, g: 0, b: 0, a: 0}
+    - _RadialTxtrColors: {r: 0.08464731, g: 0.011213949, b: 0.26415092, a: 0}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _Speed: {r: 0, g: -0.03, b: 0, a: 0}
+    - _TileSpeed: {r: 1, g: 0, b: 0, a: 0}
+    - _TileSpeed1: {r: 0, g: 0.025, b: 0, a: 0}
+    - _TileSpeed2: {r: 1, g: 0, b: 0, a: 0}
+    - _TileSpeedBorders: {r: 0, g: 0.025, b: 0, a: 0}
+    - _Tiling: {r: 0.88, g: 5.11, b: 0, a: 0}
+    - _TilingAddTxtr: {r: 1, g: 2.22, b: 0, a: 0}
+    - _TilingNoiseTxtr: {r: 0.88, g: 4.38, b: 0, a: 0}
+    - _TilingOffset: {r: 1, g: 1, b: 1, a: 0}
+    - _TillingOffset: {r: 1, g: 1, b: 1, a: 0}
+    - _TillingOffset1: {r: 1, g: 1, b: 1, a: 0}
+    - _TillingOffsetAcid: {r: -6, g: -6, b: 1, a: 0}
+    - _TillingOffsetNoise: {r: -6, g: -6, b: 1, a: 0}
+    - _TlOfBorders: {r: 2, g: 0.7, b: 1, a: 0}
+    - _Vector0: {r: 1, g: 1, b: 1, a: 0}
+    - _Vector1: {r: 1, g: 1, b: 0, a: 0}
+    - _s: {r: 0, g: 0.05, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &2456252893863343190
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

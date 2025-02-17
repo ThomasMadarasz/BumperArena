@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: f4f8c6fb1b3fd704780462cca4000b4e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["mesh_Spaceship_Lights061","mesh_Spaceship_Lights060","mesh_Spaceship_Lights059","mesh_Spaceship_Lights058","mesh_Spaceship_Lights055","mesh_Spaceship_Lights054","mesh_Spaceship_Lights053","mesh_Spaceship_Lights051","mesh_Spaceship_Lights050","mesh_Spaceship_Lights049","mesh_Spaceship_Lights048","mesh_Spaceship_Lights047","mesh_Spaceship_Lights044","mesh_Spaceship_Lights043","mesh_Spaceship_Lights042","mesh_Spaceship_Lights041","mesh_Spaceship_Lights040","mesh_Spaceship_Lights038","mesh_Spaceship_Lights037","mesh_Spaceship_Lights036","mesh_Spaceship_Lights035","mesh_Spaceship_Lights034","mesh_Spaceship_Lights033","mesh_Spaceship_Lights032","mesh_Spaceship_Lights031","mesh_Spaceship_Lights030","mesh_Spaceship_Lights029","mesh_Spaceship_Lights026","mesh_Spaceship_Lights025","mesh_Spaceship_Lights024","mesh_Spaceship_Lights022","mesh_Spaceship_Lights021","mesh_Spaceship_Lights020","mesh_Spaceship_Lights019","mesh_Spaceship_Lights018","mesh_Spaceship_Lights015","mesh_Spaceship_Lights014","mesh_Spaceship_Lights013","mesh_Spaceship_Lights012","mesh_Spaceship_Lights011","mesh_Spaceship_Lights009","mesh_Spaceship_Lights008","mesh_Spaceship_Lights007","mesh_Spaceship_Lights006","mesh_Spaceship_Lights005","mesh_Spaceship_Lights004","mesh_Spaceship_Lights003","mesh_Spaceship_Lights002","mesh_Spaceship_LightLine_CTF.002","mesh_Spaceship_LightLine_CTF.001"],"padding":[256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,139,139],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

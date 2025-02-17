@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mesh_Driver_InGame_E
+  m_Controller: {fileID: 9100000, guid: 3f3d7107ccda98042b1af72f557dd560, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cc0a655d48c54b94c9745f8a073aff08, type: 2}
+    m_OverrideClip: {fileID: 3985488577719073711, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 342d1f2654610734a8b88dccf5fcac37, type: 2}
+    m_OverrideClip: {fileID: 1471553851194723672, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 0d28ae235aeaf9c478983faea7523dc2, type: 2}
+    m_OverrideClip: {fileID: 7544570500913027865, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 4c3edbb2bf9a834429f822770e41e9a1, type: 2}
+    m_OverrideClip: {fileID: -8298338749620254484, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 01ce4ce83840b8945af0abdb9f6efcb1, type: 2}
+    m_OverrideClip: {fileID: 309005555305464022, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: a3e90ee3512efef40b96fb3bc07b71f0, type: 2}
+    m_OverrideClip: {fileID: 5437879298188773129, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f71740834461cb4438f4b0e4fe1a1be5, type: 2}
+    m_OverrideClip: {fileID: 6612533707887792643, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: fa663e25bdcf96149a5300d03123a2ff, type: 2}
+    m_OverrideClip: {fileID: -2220556378300862068, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 92597c156a6eceb40bf67f0745749615, type: 2}
+    m_OverrideClip: {fileID: -3002907187480397866, guid: 850847ed6ac6b1c46b7afeeb0f25d7c6, type: 3}

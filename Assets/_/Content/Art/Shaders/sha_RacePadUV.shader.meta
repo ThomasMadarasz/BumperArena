@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 74db66e0ad74d6041946deab19d3822b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _ScreenHoles: {fileID: 2800000, guid: 20f95d83b80a1c54daeae0f38b3e56a2, type: 3}
+  - _DissolveTexture: {fileID: 2800000, guid: 62f347e7d781b3249afa8ee3d62a677d, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

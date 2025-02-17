@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ba655089f38711d45a23329ddde5e84f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _SkyboxTexture: {fileID: 2800000, guid: d007e1c2287a706498f45c7fba0c7bc9, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
