@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MenuD
+  m_Controller: {fileID: 9100000, guid: dae2d06b15f03534daf3b41bd51bbd6e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 242231315d9f9534b9cc6d5f5701fb00, type: 2}
+    m_OverrideClip: {fileID: 6032375016150402680, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 55a9918819962134f800964c3a7642ad, type: 2}
+    m_OverrideClip: {fileID: 981418366451436498, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: c990ca2e7df550a4b94ce4bd82ebadae, type: 2}
+    m_OverrideClip: {fileID: 4444958729954850191, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d881669d931c2414fabb2cef21e818cc, type: 2}
+    m_OverrideClip: {fileID: 6865584605839983955, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 6d01db58c35e71241b5239b342ef7726, type: 2}
+    m_OverrideClip: {fileID: -8178725775506074854, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 75886e0435c8c504e83eaec31cc675de, type: 2}
+    m_OverrideClip: {fileID: 4418322272497433075, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 120c619c3704a0c4baa01f55525fd087, type: 2}
+    m_OverrideClip: {fileID: -3511469630265102733, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8802e04b4cbc41c4789051eee4928837, type: 2}
+    m_OverrideClip: {fileID: 8436214977761783422, guid: fee80722ecf492e428d395a1147947f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d81ac744c1d40d04ca2709aae8cae7ec, type: 2}
+    m_OverrideClip: {fileID: -9145174841210207910, guid: fee80722ecf492e428d395a1147947f1, type: 3}

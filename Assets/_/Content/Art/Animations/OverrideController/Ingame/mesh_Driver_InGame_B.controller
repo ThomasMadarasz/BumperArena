@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mesh_Driver_InGame_B
+  m_Controller: {fileID: 9100000, guid: 3f3d7107ccda98042b1af72f557dd560, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cc0a655d48c54b94c9745f8a073aff08, type: 2}
+    m_OverrideClip: {fileID: -6982798819207367261, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 342d1f2654610734a8b88dccf5fcac37, type: 2}
+    m_OverrideClip: {fileID: 228653752659804493, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 0d28ae235aeaf9c478983faea7523dc2, type: 2}
+    m_OverrideClip: {fileID: -6068286347817600104, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 4c3edbb2bf9a834429f822770e41e9a1, type: 2}
+    m_OverrideClip: {fileID: -8781607206665659921, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 01ce4ce83840b8945af0abdb9f6efcb1, type: 2}
+    m_OverrideClip: {fileID: 7928025781092882832, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: a3e90ee3512efef40b96fb3bc07b71f0, type: 2}
+    m_OverrideClip: {fileID: 8097464478204775870, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f71740834461cb4438f4b0e4fe1a1be5, type: 2}
+    m_OverrideClip: {fileID: -7522540195701886883, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: fa663e25bdcf96149a5300d03123a2ff, type: 2}
+    m_OverrideClip: {fileID: -697756396509575396, guid: 959d01f7945f18640a1acbda67766d23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 92597c156a6eceb40bf67f0745749615, type: 2}
+    m_OverrideClip: {fileID: 4936506902709346181, guid: 959d01f7945f18640a1acbda67766d23, type: 3}

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_/Content/Art/Animations/Timeline/Scoreboard/tl_Camera_P1_Win.playable.meta
+guid: 97946660705e57247b1865f14ced9045
+========
+guid: d1ea1be05cc3f4e4a8a1e528cb52eb77
+>>>>>>>> 37020043 (Scoreboard timeline + anim for each winners):Assets/_/Content/Art/Animations/Timeline/Scoreboard/tl_Camera_P2_Win.playable.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

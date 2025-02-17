@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 92d092bf2af38ad48aeaf1638a71d066
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _LightTexture: {fileID: 2800000, guid: cf3fff25d71782e4296c51417f3b226a, type: 3}
+  - _LightGradient: {fileID: 2800000, guid: 1fb077dfef5011446a6eadc6567296db, type: 3}
+  - _StarsGradient: {fileID: 2800000, guid: 6f88bc22277109a42800803714ff5892, type: 3}
+  - _StarsTexture: {fileID: 2800000, guid: 93131b805326e6c40a15d99637b4e6dd, type: 3}
+  - _ShadowTexture: {fileID: 2800000, guid: cf3fff25d71782e4296c51417f3b226a, type: 3}
+  - _ShadowGradient: {fileID: 2800000, guid: 1fb077dfef5011446a6eadc6567296db, type: 3}
+  - _AlphaTexture: {fileID: 2800000, guid: a2e879e588630da4cbbf459a462a9ac2, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
